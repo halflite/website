@@ -1,0 +1,11 @@
+baseURL = "https://halflite.net/"
+languageCode = "ja"
+title = "halflite.net"
+
+[[params.mainMenu]]
+    link = "/"
+    text = "halflite.net"
+
+[[params.mainMenu]]
+    link = "/aboutme"
+    text = "about me"
