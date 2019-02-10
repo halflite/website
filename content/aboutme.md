@@ -7,7 +7,8 @@ draft: false
 - blog
     - main blog [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
     - tech blog [ひとり開発日記。 - プログラマの秘密のあれこれ](http://program.g.hatena.ne.jp/halflite/ "ひとり開発日記。 - プログラマの秘密のあれこれ")
-    - disc review [bitter*smooth @ hatena](http://d.hatena.ne.jp/halflite/ "bitter*smooth @ hatena")
+    - disc review [bitter*smooth](https://bittersmooth.halflite.net/ "bitter*smooth")
+    - disc review(old) [bitter*smooth @ hatena](http://d.hatena.ne.jp/halflite/ "bitter*smooth @ hatena")
     - hatena haiku [halflite - はてなハイク](http://h.hatena.ne.jp/halflite/ "halflite - はてなハイク")
 - twitter
     - twitter [@halflite](https://twitter.com/halflite "@halflite")
