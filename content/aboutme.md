@@ -6,7 +6,7 @@ draft: false
 
 - blog
     - main blog [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
-    - tech blog [ひとり開発日記。](http://tech.halflite.net/ "ひとり開発日記。")
+    - tech blog [ひとり開発日記。](https://halflite.github.io/techlog/ "ひとり開発日記。")
     - disc review [bitter*smooth](https://bittersmooth.halflite.net/ "bitter*smooth")
     - disc review(old) [bitter*smooth @ hatena](http://d.hatena.ne.jp/halflite/ "bitter*smooth @ hatena")
 - twitter
