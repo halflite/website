@@ -11,8 +11,10 @@ draft: false
     - disc review(old) [bitter*smooth @ hatena](http://d.hatena.ne.jp/halflite/ "bitter*smooth @ hatena")
 - twitter
     - twitter [@halflite](https://twitter.com/halflite "@halflite")
-    - Twilog [@halflite](https://twilog.org/halflite "@halflite")
+    - Twilog [@halflite](https://twilog.togetter.com/halflite "@halflite")
     - favolog [@halflite](https://favolog.org/halflite "@halflite")
+- mastodon
+    - fedibird.com [@halflite@fedibird.com](https://fedibird.com/@halflite "@halflite@fedibird.com")
 - bookmark
     - tech [はてなブックマーク - bittersoulsのブックマーク](http://b.hatena.ne.jp/bittersouls/ "はてなブックマーク - bittersoulsのブックマーク")
     - book/manga [halflite - 読書メーター](https://bookmeter.com/users/341894 "halflite - 読書メーター")
