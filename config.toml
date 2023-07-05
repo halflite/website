@@ -1,6 +1,7 @@
 baseURL = "https://halflite.net/"
 languageCode = "ja"
 title = "halflite.net"
+theme = "sam"
 
 [[params.mainMenu]]
     link = "/"
