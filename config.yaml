@@ -1,0 +1,10 @@
+baseURL: https://halflite.net/
+languageCode: ja
+title: halflite.net
+theme: papermod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: halflite.net
+    Content: "[about me](/aboutme \"about me by halflite.net\")"
