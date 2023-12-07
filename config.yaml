@@ -5,6 +5,12 @@ theme: papermod
 
 params:
   defaultTheme: dark
+  assets:
+    disableHLJS: true
+    favicon: "/assets/favicon.ico"
+    favicon16x16:  "/assets/favicon-16x16.png"
+    favicon32x32:  "/assets/favicon-32x32.png"
+    apple_touch_icon:  "/assets/apple-touch-icon.png"
   homeInfoParams:
     Title: halflite.net
     Content: "[about me](/aboutme \"about me by halflite.net\")"
