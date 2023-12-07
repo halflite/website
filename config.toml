@@ -1,7 +1,7 @@
 baseURL = "https://halflite.net/"
 languageCode = "ja"
 title = "halflite.net"
-theme = "sam"
+theme = "papermod"
 
 [[params.mainMenu]]
     link = "/"
