@@ -7,6 +7,7 @@ draft: false
 - blog
   - disc review [bitter*smooth](https://bittersmooth.halflite.net/ "bitter*smooth")
   - tech blog [ひとり開発日記。](https://halflite.github.io/techlog/ "ひとり開発日記。")
+  - etc. [favorites... by halflite.net](https://favs.halflite.net/ "favorites... by halflite.net")
 - mastodon
   - fedibird.com [halflite@fedibird.com](https://fedibird.com/@halflite "halflite@fedibird.com")
 - bookmark
