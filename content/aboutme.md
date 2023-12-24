@@ -15,6 +15,7 @@ draft: false
   - memo [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
   - spotify playlits [shingo1007](https://open.spotify.com/user/94adu4wv5h59ykv64hed3sl7m "shingo1007")
 - twitter
-  - twitter [@halflite](https://twitter.com/halflite "@halflite")
+  - [twitter](https://twitter.com/halflite "@halflite")
+  - [Twilog](https://twilog.togetter.com/halflite "halflite(@halflite) - Twilog")
 - mail
-    - [shingo@halflite.net](<mailto:shingo@halflite.net>)
+  - [shingo@halflite.net](<mailto:shingo@halflite.net>)
