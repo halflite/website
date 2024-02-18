@@ -1,6 +1,6 @@
 ---
 title: "about me by halflite.net"
-date: 2023-12-01T00:00:00+09:00
+date: 2024-02-18T00:00:00+09:00
 draft: false
 ---
 
@@ -14,8 +14,5 @@ draft: false
   - tech [はてなブックマーク - bittersoulsのブックマーク](http://b.hatena.ne.jp/bittersouls/ "はてなブックマーク - bittersoulsのブックマーク")
   - memo [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
   - spotify playlists [shingo1007](https://open.spotify.com/user/94adu4wv5h59ykv64hed3sl7m "shingo1007")
-- twitter
-  - [twitter](https://twitter.com/halflite "@halflite")
-  - [Twilog](https://twilog.togetter.com/halflite "halflite(@halflite) - Twilog")
 - mail
   - [shingo@halflite.net](<mailto:shingo@halflite.net>)
