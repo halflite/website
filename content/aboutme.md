@@ -8,8 +8,9 @@ draft: false
   - disc review [bitter*smooth](https://bittersmooth.halflite.net/ "bitter*smooth")
   - tech blog [ひとり開発日記。](https://halflite.github.io/techlog/ "ひとり開発日記。")
   - etc. [favorites... by halflite.net](https://favs.halflite.net/ "favorites... by halflite.net")
-- mastodon
+- social media
   - fedibird.com [halflite@fedibird.com](https://fedibird.com/@halflite "halflite@fedibird.com")
+  - Bluesky [@shingo1007.bsky.social](https://bsky.app/profile/shingo1007.bsky.social "a.k.a halflite (@shingo1007.bsky.social) — Bluesky")
 - bookmark
   - tech [はてなブックマーク - bittersoulsのブックマーク](http://b.hatena.ne.jp/bittersouls/ "はてなブックマーク - bittersoulsのブックマーク")
   - memo [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
