@@ -10,8 +10,8 @@ draft: false
   - memo [blog.halflite.net](http://blog.halflite.net/ "blog.halflite.net")
 - social media
   - mastodon [halflite@fedibird.com](https://fedibird.com/@halflite "halflite@fedibird.com")
+  - bluesky [a.k.a halflite (@shingo1007.bsky.social)](https://bsky.app/profile/shingo1007.bsky.social "a.k.a halflite (@shingo1007.bsky.social)")
 - bookmark
   - tech [はてなブックマーク - bittersoulsのブックマーク](http://b.hatena.ne.jp/bittersouls/ "はてなブックマーク - bittersoulsのブックマーク")
 - mail
   - [shingo@halflite.net](<mailto:shingo@halflite.net>)
-  
