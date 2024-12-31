@@ -11,6 +11,7 @@ draft: false
 - social media
   - mastodon [halflite@fedibird.com](https://fedibird.com/@halflite "halflite@fedibird.com")
   - bluesky [a.k.a halflite (@shingo1007.bsky.social)](https://bsky.app/profile/shingo1007.bsky.social "a.k.a halflite (@shingo1007.bsky.social)")
+  - djplaybot [djplaybot (@djplaybot) | Submarin](https://submarin.online/@djplaybot "djplaybot (@djplaybot) | Submarin")
 - bookmark
   - tech [はてなブックマーク - bittersoulsのブックマーク](http://b.hatena.ne.jp/bittersouls/ "はてなブックマーク - bittersoulsのブックマーク")
 - mail
